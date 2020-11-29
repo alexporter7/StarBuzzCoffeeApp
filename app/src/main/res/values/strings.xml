@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">StarBuzzCoffee</string>
     <string name="starbuzz_logo">StarBuzz Logo</string>
+    <string name="favorite">Add Drink to Favorite</string>
+    <string name="favorites">Favorite Drinks</string>
     <string-array name="options">
         <item>Drinks</item>
         <item>Food</item>
